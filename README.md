@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-shell ripository
+This is the project readme file
